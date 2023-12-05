@@ -1,0 +1,49 @@
+[{
+    "id": 123,
+    "name": "chaim",
+    "telephon": "0527632423 ",
+    "email": "fdgdf@Gmail.com",
+    "job": "SeniorMnager",
+    "dateOfBegin": "2020/03/02",
+    "department": "office"
+}, {
+    "id": 567,
+    "name": "dasi",
+    "telephon": "0523648755 ",
+    "email": "dasi@Gmail.com",
+    "job": "employee",
+    "dateOfBegin": "2012/03/04",
+    "department": "customerService"
+}, {
+    "id": 789,
+    "name": "shira",
+    "telephon": "0523145896 ",
+    "email": "shira@Gmail.com",
+    "job": "employee",
+    "dateOfBegin": "2024/02/08",
+    "department": "customerService"
+}, {
+    "id": 890,
+    "name": "yehuda",
+    "telephon": "0556782589 ",
+    "email": "erty@Gmail.com",
+    "job": "employee",
+    "dateOfBegin": "2010/23/07",
+    "department": "office"
+}, {
+    "id": 345,
+    "name": "aron",
+    "telephon": "0562314845 ",
+    "email": "aron@Gmail.com",
+    "job": "employee",
+    "dateOfBegin": "2022/01/08",
+    "department": "cleaning"
+}, {
+    "id": 564,
+    "name": "yael",
+    "telephon": "0551345845 ",
+    "email": "ewrf@Gmail.com",
+    "job": "StaffMnager",
+    "dateOfBegin": "2018/03/05",
+    "department": "customerService"
+}]
